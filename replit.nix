@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
+        pkgs.lsof
         pkgs.yarn
         pkgs.esbuild
         pkgs.nodejs-16_x
