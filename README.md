@@ -5,16 +5,16 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 ### Screenshots:
 
 1. Local NPM Run
-[Local NPM deployment](/deployment_screenshots/1.png)
+![Local NPM deployment](/deployment_screenshots/1.png)
 2. Postman Local Environment
-  [200]('/deployment_screenshots/2.png')
+![200]('/deployment_screenshots/2.png')
 3. Successful request
-[200]('/deployment_screenshots/3.png')
+![200]('/deployment_screenshots/3.png')
 4.  Errors
-[400]('/deployment_screenshots/4.png')
-[400]('/deployment_screenshots/5.png')
+![400]('/deployment_screenshots/4.png')
+![400]('/deployment_screenshots/5.png')
 5.  Elastic Beanstalk Deployment
-[EB Screenshot]('/deployment_screenshots/6.png')
+![EB Screenshot]('/deployment_screenshots/6.png')
 
 
 The project is split into three parts:
