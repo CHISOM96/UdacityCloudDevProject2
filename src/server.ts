@@ -35,7 +35,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
   
   // Root Endpoint
   // Displays a simple message to the user
-   app.use(function (req, res, next) {
+   app.use(function (req:express.Request, res:express.Response, next:express.NextFunction) {
     if (req.path != '/filteredimage') {
       res.send("try GET /filteredimage?image_url={{}}")
     }
